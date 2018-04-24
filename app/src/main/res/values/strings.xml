@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticeTextToSpeechAPI</string>
+    <string name="text_to_speech_activity_name">Text to speech</string>
+    <string name="speech_to_text_activity_name">Speech to text</string>
+</resources>
